@@ -1,0 +1,10 @@
+
+/node_modules
+.DS_Store
+.idea/
+dist
+public/uploads/qrCode
+public/uploads/qrCode/
+.env
+public/uploads/
+package-lock.json
